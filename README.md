@@ -1,8 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/etrusaek/crypto-cotacao-app)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/etrusaek/crypto-cotacao-app)
-![GitHub License](https://img.shields.io/github/license/etrusaek/crypto-cotacao-app)
-
-
 
 # 💰 Cotação de Criptomoedas — React + CoinGecko API
 
